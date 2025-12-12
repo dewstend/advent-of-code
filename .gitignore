@@ -1,0 +1,11 @@
+# Advent of Code
+input/
+
+# Rust
+target/
+
+# Misc
+.swp
+.DS_Store
+.idea
+.vscode
